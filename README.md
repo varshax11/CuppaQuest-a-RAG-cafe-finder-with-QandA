@@ -2,7 +2,7 @@
 
 Welcome to **CuppaQuest**, a charming Streamlit web app that helps you discover the cutest cafes in Chennai using a combination of PDF-based cafe data, RAG (Retrieval-Augmented Generation), and a hybrid retriever powered by HuggingFace and LangChain
 
-<img width="1301" alt="Screenshot 2025-07-06 at 10 40 25 AM" src="https://github.com/user-attachments/assets/f33bcbd3-73e6-4818-a9f0-f590c4896f32" />
+<img width="1292" alt="Screenshot 2025-07-06 at 10 49 14 AM" src="https://github.com/user-attachments/assets/2f90ad85-003c-4750-b92d-8b410120284f" />
 <img width="1297" alt="Screenshot 2025-07-06 at 10 41 38 AM" src="https://github.com/user-attachments/assets/e72c86aa-7172-4288-94ca-8388e582e4e6" />
 
 ---
