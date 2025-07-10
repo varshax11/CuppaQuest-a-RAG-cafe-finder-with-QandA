@@ -26,9 +26,7 @@ llm = HuggingFaceEndpoint(
 chat_model = ChatHuggingFace(llm=llm)
 
 
-file_path = (
-    "/Users/apple/Documents/cafeschennai.pdf"
-)
+file_path = "cafesinchennai.pdf"
 
 loaders = PyPDFLoader(file_path)
 
