@@ -4,3 +4,4 @@ langchain_huggingface
 faiss-cpu
 transformers
 langchain_community
+pypdf
