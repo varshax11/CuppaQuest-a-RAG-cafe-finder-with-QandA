@@ -5,3 +5,4 @@ faiss-cpu
 transformers
 langchain_community
 pypdf
+sentence-transformers
